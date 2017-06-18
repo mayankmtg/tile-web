@@ -1,14 +1,10 @@
 body{
 	font-family: 'Raleway', sans-serif;
 	background: url("images/back3.jpg") top fixed;
-	margin-top: 80px;
+	margin-top: 50px;
 	background-color: #211e27;
 }
-.navbar{
-	background-color: transparent;
-   	background: transparent;
-   	border-color: transparent;
-}
+
 .bold{
 	font-weight: bold;
 }
@@ -47,7 +43,7 @@ body{
 .marketing{
 	color: #f2f2f2;
 	 width: 100%;
-	background-color: rgba(13, 13, 13,0.8);
+	background-color: rgba(13, 13, 13,1);
 }
 hr{
 	width: 70px;
@@ -382,7 +378,7 @@ footer {
     text-align: center;
     color: #f2f2f2;
    width: 100%;
-  background-color: rgba(13, 13, 13,0.8);
+  background-color: rgba(13, 13, 13,1);
 
 }
 
