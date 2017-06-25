@@ -6,6 +6,7 @@ It is mainly for display purposes.
 
 ## How to View
 - Basic static website design
+- Go To: https://mayankmtg.github.io/tile-web/
 
 ## Screenshots
 
